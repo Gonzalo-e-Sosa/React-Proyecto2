@@ -1,6 +1,6 @@
 import './App.css';
 import logo from './imagenes/logo.png';
-import Contador from './componentes/Contador'
+import Contador from './componentes/Contador';
 import Boton from './componentes/Boton';
 import { useState } from 'react';
 
